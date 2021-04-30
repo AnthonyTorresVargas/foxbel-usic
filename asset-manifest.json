@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/foxbel-usic/static/css/main.f3d321ba.chunk.css",
+    "main.js": "/foxbel-usic/static/js/main.de014504.chunk.js",
+    "main.js.map": "/foxbel-usic/static/js/main.de014504.chunk.js.map",
+    "runtime-main.js": "/foxbel-usic/static/js/runtime-main.6102b1f7.js",
+    "runtime-main.js.map": "/foxbel-usic/static/js/runtime-main.6102b1f7.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/foxbel-usic/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3434cee0.chunk.js": "/foxbel-usic/static/js/2.3434cee0.chunk.js",
+    "static/js/2.3434cee0.chunk.js.map": "/foxbel-usic/static/js/2.3434cee0.chunk.js.map",
+    "index.html": "/foxbel-usic/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/foxbel-usic/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.f3d321ba.chunk.css.map": "/foxbel-usic/static/css/main.f3d321ba.chunk.css.map",
+    "static/js/2.3434cee0.chunk.js.LICENSE.txt": "/foxbel-usic/static/js/2.3434cee0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6102b1f7.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3434cee0.chunk.js",
+    "static/css/main.f3d321ba.chunk.css",
+    "static/js/main.de014504.chunk.js"
+  ]
+}

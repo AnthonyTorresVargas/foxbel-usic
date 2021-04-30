@@ -1,8 +1,0 @@
-.Lista{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    overflow-y: scroll;
-    height: 330px;
-}

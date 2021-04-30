@@ -1,9 +1,0 @@
-.Menu {
-    background-color: #662323;
-    display: flex;
-    flex-direction: column;
-    width: 30%;
-    min-width: 300px;
-    padding-top: 30px;
-    padding-left: 30px;
-}
