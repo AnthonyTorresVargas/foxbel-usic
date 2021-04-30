@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header>div {
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header>div>label{
+    margin: 0px;
+}
+
+.buscador {
+    height: 36px;
+    width: 524px !important;
+    left: 0px;
+    top: 0px;
+    border-radius: 100px !important;
+}

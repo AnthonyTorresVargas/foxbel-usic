@@ -1,0 +1,8 @@
+.Content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-left: 40px;
+    margin-top: 30px;
+    margin-right: 40px;
+}
