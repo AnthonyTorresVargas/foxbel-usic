@@ -3,7 +3,7 @@ import { Menu } from '../components/Menu'
 import { Content } from '../components/Content'
 import { Reproductor } from '../components/Reproductor'
 import '../styles/components/home.css'
-
+import { Helmet } from 'react-helmet'
 import initialState from '../initialState'
 
 export const Home = () => {
@@ -49,6 +49,11 @@ export const Home = () => {
     return (
         <div className="Page">
             <div className="Home">
+                < Helmet>
+                    <title>Foxbel Music - Tu reproductor de música confiable</title>
+                    <meta name='description' content='Con Foxbel-Music puedes encontrar la mejor música de todo el mundo!' />
+                </Helmet>
+
                 <Menu />
                 <Content onChange={handleChange} onClickButton={buttonReproducir} onClick={handleClick} item={firstElement} music={music} />
             </div>
