@@ -3,7 +3,6 @@ import initialState from '../initialState'
 
 export const useInitialState = () => {
     const [state, setState] = useState(initialState)
-    console.log(state)
     const handleClick = itemNew => {
         setState({
             ...state,

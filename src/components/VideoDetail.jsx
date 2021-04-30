@@ -2,7 +2,7 @@ import React from 'react'
 import '../styles/components/videodetail.css'
 
 export const VideoDetail = ({ onClickButton, pintar, onClick }) => {
-    console.log(pintar)
+
     return (
         <div className="contenedor">
             <img className="foto" src={pintar.album.cover} alt="" />

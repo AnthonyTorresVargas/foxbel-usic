@@ -10,7 +10,7 @@ export const Home = () => {
     const corsAnywhere = 'https://cors-anywhere.herokuapp.com/';
 
     const [query, setQuery] = useState('eminem')
-    // const [music, setMusic] = useState([])
+
     const [music, setMusic] = useState(initialState.data)
 
     const [firstElement, setFirstElement] = useState(initialState.data[0])
@@ -37,9 +37,7 @@ export const Home = () => {
     }, [query])
 
     const buttonReproducir = () => {
-        console.log('se debe reproducir')
         const audio = document.getElementById("audio")
-        console.log(audio)
         audio.play()
     }
 
